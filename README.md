@@ -1,7 +1,8 @@
 # Trends and impact of multimorbidity in heart failure <a href='https://www.cam.ac.uk'><img src='figs/cambridge.png' align="right" height="150" /></a>
 
 <!-- badges: start -->
-![Languages](https://img.shields.io/badge/Languages-R-6498d3)
+<!-- ![Languages](https://img.shields.io/badge/Languages-R-6498d3) -->
+![Status](https://img.shields.io/badge/Status-In--Development-red)
 <!-- badges: end -->
 
 ## Overview
