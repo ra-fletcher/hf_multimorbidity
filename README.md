@@ -7,7 +7,7 @@
 
 ## Overview
 
-This repository provides ICD-10 and SNOMED-CT codes used to identify key comorbidities in heart failure patients in the NHS Secure Data Environment (SDE) for England.
+This repository provides ICD-10 and SNOMED-CT codes used to identify key comorbidities in heart failure patients in the NHS Secure Data Environment (SDE) for England. Codelists were created using the [HDR UK Phenotype Library](https://phenotypes.healthdatagateway.org) and supplemented with additional ontology terms.
 
 ## Repository Authors
 
